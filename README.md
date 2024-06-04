@@ -20,7 +20,7 @@ Apply the trained model to new, unseen data for real-world predictions.
 Installation
 
 Clone this repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/smahasr/Text-Based-Risk-Preidiction/blob/main/Text_Based_Risk_Prediction_.ipynb
 
 Install dependencies (Python, PySpark, etc.).
 Usage
